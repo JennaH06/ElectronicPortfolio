@@ -5,3 +5,11 @@
 .caption {
 	background-color: black;
 }
+
+.imgPadding {
+	padding:  30px;
+}
+
+.spaceBetween {
+	padding: 50px;
+}
